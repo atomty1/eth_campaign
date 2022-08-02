@@ -10,10 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13",
     "fs-extra": "^10.1.0",
     "ganache": "^7.4.0",
     "mocha": "^10.0.0",
     "solc": "^0.8.15",
     "web3": "^1.7.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
   }
 }
